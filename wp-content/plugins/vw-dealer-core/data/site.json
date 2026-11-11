@@ -1,0 +1,30 @@
+{
+  "dealer_name": "Volkswagen Sài Gòn",
+  "tagline": "Đại lý ủy quyền chính hãng Volkswagen",
+  "hotline": "0907 658 787",
+  "hotline_raw": "0907658787",
+  "zalo": "https://zalo.me/0907658787",
+  "email": "xuantuan1983@gmail.com",
+  "address": "Lô D3 Đường D1, KCN Cát Lái, P. Cát Lái, TP. Hồ Chí Minh",
+  "hours": "8:00 – 18:00, Thứ 2 – Chủ nhật",
+  "map_url": "https://maps.google.com/?q=KCN+C%C3%A1t+L%C3%A1i+TP+H%E1%BB%93+Ch%C3%AD+Minh",
+  "source_base": "https://volkswagentanthuan.vn",
+  "hero_slides": [
+    { "car": "vw-id-era-9x", "title": "ID. ERA 9X – SUV EREV 6 chỗ, 510 mã lực", "sub": "Phạm vi tổng 1.651 km. Nhận đặt hàng ngay hôm nay." },
+    { "car": "vw-tayron", "title": "Tayron hoàn toàn mới – SUV 7 chỗ từ Đức", "sub": "Giá dự kiến từ 1,599 tỷ. Giao xe từ 12/2026." },
+    { "car": "vw-touareg", "title": "Touareg – SUV đầu bảng, 4MOTION", "sub": "Ưu đãi lên đến 100% lệ phí trước bạ." },
+    { "car": "vw-viloran", "title": "Viloran – MPV 7 chỗ hạng thương gia", "sub": "Hai cửa trượt điện, ghế thương gia ngả 70°." },
+    { "car": "vw-golf", "title": "Golf – Hatchback biểu tượng, từ 798 triệu", "sub": "1.5 eTSI Mild Hybrid, GTI và Golf R." }
+  ],
+  "cta_boxes": [
+    { "icon": "steering", "title": "Đăng ký lái thử", "text": "Trải nghiệm các mẫu xe Volkswagen mới nhất ngay tại showroom hoặc tận nhà.", "link": "/dang-ky-lai-thu/" },
+    { "icon": "shield", "title": "Bảo hành toàn quốc", "text": "Bảo hành chính hãng 3 năm hoặc 100.000 km, mạng lưới xưởng dịch vụ toàn quốc.", "link": "/dich-vu/" },
+    { "icon": "percent", "title": "Mua xe trả góp", "text": "Hỗ trợ vay đến 80% giá trị xe, lãi suất ưu đãi, thủ tục nhanh gọn.", "link": "/mua-xe-tra-gop/" },
+    { "icon": "headset", "title": "Hỗ trợ 24/7", "text": "Tư vấn, cứu hộ và chăm sóc khách hàng mọi lúc, mọi nơi.", "link": "/lien-he/" }
+  ],
+  "videos": [
+    "https://www.youtube.com/embed/VIDEO_ID_1",
+    "https://www.youtube.com/embed/VIDEO_ID_2",
+    "https://www.youtube.com/embed/VIDEO_ID_3"
+  ]
+}

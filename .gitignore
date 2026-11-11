@@ -1,0 +1,18 @@
+# OS / editor
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
+*.log
+
+# WordPress core (chỉ commit wp-content của dự án)
+wp-admin/
+wp-includes/
+wp-*.php
+wp-content/uploads/
+wp-content/upgrade/
+wp-content/cache/
+
+# Build
+*.zip
+node_modules/
